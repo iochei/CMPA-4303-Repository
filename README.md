@@ -13,3 +13,6 @@ The purpose of this milestone is to transition the project from local developmen
 
 ## How to visit it
 You can view the live deployed project here: https://iochei.github.io/CMPA-4303-Repository/
+
+## What changed from Project 01 to Project 02?
+Between Project 01 and Project 02, the project evolved from an initial structural milestone into a fully polished MVP. Specifically, I refined the visual layout and hierarchy, ensured robust cross-device responsiveness, integrated real content across all views, and cleaned up user interactions to remove friction.
